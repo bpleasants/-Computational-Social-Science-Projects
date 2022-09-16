@@ -1,0 +1,23 @@
+(base) Elizabeths-MacBook-Pro:~ elizabethpleasants$ cd Dropbox/Fall_2022
+(base) Elizabeths-MacBook-Pro:Fall_2022 elizabethpleasants$ cd CSS/Github
+git clone https://github.com/bpleasants/Computational-Social-Science-Projects.git 
+
+cd Computational-Social-Science-Projects
+(base) Elizabeths-MacBook-Pro:Computational-Social-Science-Projects elizabethpleasants$
+
+#create project 1 folder
+mkdir Project-1
+
+#set project 1 folder as new directory
+cd Project-1
+
+#create and open new readme file to add code
+touch readme
+nano readme
+
+#add, commit, and push with code for this process in readme
+git add *
+git commit -m “add code for project 1”
+git push -u origin master
+
+

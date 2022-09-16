@@ -1,0 +1,22 @@
+Last login: Fri Sep 16 10:59:29 on ttys001
+
+The default interactive shell is now zsh.
+To update your account to use zsh, please run `chsh -s /bin/zsh`.
+For more details, please visit https://support.apple.com/kb/HT208050.
+(base) Elizabeths-MacBook-Pro:~ elizabethpleasants$ cd elizabethpleasants/Dropbox/Fall_2022
+-bash: cd: elizabethpleasants/Dropbox/Fall_2022: No such file or directory
+(base) Elizabeths-MacBook-Pro:~ elizabethpleasants$ cd Dropbox/Fall_2022
+(base) Elizabeths-MacBook-Pro:Fall_2022 elizabethpleasants$ cd CSS/GitHub
+(base) Elizabeths-MacBook-Pro:GitHub elizabethpleasants$ git clone https://github.com/bpleasants/-Computational-Social-Science-Projects.git
+Cloning into '-Computational-Social-Science-Projects'...
+remote: Enumerating objects: 6, done.
+remote: Counting objects: 100% (6/6), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 6 (delta 0), reused 0 (delta 0), pack-reused 0
+Receiving objects: 100% (6/6), done.
+(base) Elizabeths-MacBook-Pro:GitHub elizabethpleasants$ cd Computational-Social-Science-Projects
+-bash: cd: Computational-Social-Science-Projects: No such file or directory
+(base) Elizabeths-MacBook-Pro:GitHub elizabethpleasants$ cd Computational-Social-Science-Projects
+(base) Elizabeths-MacBook-Pro:Computational-Social-Science-Projects elizabethpleasants$ mkdir Project-1
+(base) Elizabeths-MacBook-Pro:Computational-Social-Science-Projects elizabethpleasants$ touch readme(base) Elizabeths-MacBook-Pro:Computational-Social-Science-Projects elizabethpleasants$ 
+
